@@ -10,7 +10,7 @@ Cada pasta contém:
 
 ## 📊 Dashboards Disponíveis
 
-### 1. [Dashboard de Produção]
+### 1. [Dashboard de Produção](./dashboard-producao/README.md)
 
 - **Área**: Produção
 - **Descrição**: Visualização dos principais indicadores de produção, incluindo análises produtividade, qualidade entre outras métricas.
